@@ -90,5 +90,3 @@ sudo bash tests/kernel_stress.sh    # kernel module stress test (VM, root)
 | 4 Prototype | [docs/04_prototype.md](docs/04_prototype.md) | `stage-4` |
 | 5 Testing and improvement | [docs/05_testing.md](docs/05_testing.md) | `stage-5` |
 | 6 Final report | [docs/06_final_report.md](docs/06_final_report.md) | `stage-6` |
-
-Progress log: [docs/PROGRESS.md](docs/PROGRESS.md). Presentation outline: [docs/presentation_outline.md](docs/presentation_outline.md).
