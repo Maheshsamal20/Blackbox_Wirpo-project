@@ -92,6 +92,3 @@ sudo bash tests/kernel_stress.sh    # kernel module stress test (VM, root)
 | 6 Final report | [docs/06_final_report.md](docs/06_final_report.md) | `stage-6` |
 
 Progress log: [docs/PROGRESS.md](docs/PROGRESS.md). Presentation outline: [docs/presentation_outline.md](docs/presentation_outline.md).
-
-## License
-The kernel module declares `MODULE_LICENSE("GPL")`. Add a `LICENSE` file of your choice (GPL-2.0 recommended) before publishing.
